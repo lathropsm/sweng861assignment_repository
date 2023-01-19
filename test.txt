@@ -1,1 +1,1 @@
-This is a test of GIT
+This is the file from Branch-Exercise 2
